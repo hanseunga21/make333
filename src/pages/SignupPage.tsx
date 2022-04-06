@@ -3,7 +3,7 @@ import { TextField } from '../components/TextField';
 
 export const SignupPage = () => {
   return (
-  <div> className="m-4"
+  <div className="m-4"> 
     <div className="text-3xl font-bold mb-10">회원가입</div>
 
     <div>

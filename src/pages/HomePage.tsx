@@ -3,7 +3,7 @@ import { TextField } from '../components/TextField';
 
 export const HomePage = () => {
   return (
-  <div> className="m-4"
+  <div className="m-4">  
     <div className="text-3xl font-bold mb-10">List</div>
 
     <div className="py-40 bg-gray-200 text-gray-800 text-left font-bold text-2xl">
